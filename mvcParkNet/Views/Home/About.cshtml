@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+@using mvcParkNet.Models
+@model List<mvcParkNet.Models.homeModel>
+
+<table class="table table-striped table-dark">
+  <thead>
+   
+    <tr>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+    </tr>
+  </thead>
+  <tbody>
+     @if (Model.Count() > 0)  
+        {  
+            foreach (var item in Model)  
+            {  
+    <tr>
+      <td>@item.text</td>
+      <td>@item.count</td>
+    </tr>
+          }
+        }
+  </tbody>
+      
+</table>
