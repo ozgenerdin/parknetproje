@@ -1,0 +1,11 @@
+/Users/capi/Desktop/Projects/C#/parknetApp/bin/Debug/netcoreapp2.1/parknetApp.deps.json
+/Users/capi/Desktop/Projects/C#/parknetApp/bin/Debug/netcoreapp2.1/parknetApp.runtimeconfig.json
+/Users/capi/Desktop/Projects/C#/parknetApp/bin/Debug/netcoreapp2.1/parknetApp.runtimeconfig.dev.json
+/Users/capi/Desktop/Projects/C#/parknetApp/bin/Debug/netcoreapp2.1/parknetApp.dll
+/Users/capi/Desktop/Projects/C#/parknetApp/bin/Debug/netcoreapp2.1/parknetApp.pdb
+/Users/capi/Desktop/Projects/C#/parknetApp/obj/Debug/netcoreapp2.1/parknetApp.csprojAssemblyReference.cache
+/Users/capi/Desktop/Projects/C#/parknetApp/obj/Debug/netcoreapp2.1/parknetApp.csproj.CoreCompileInputs.cache
+/Users/capi/Desktop/Projects/C#/parknetApp/obj/Debug/netcoreapp2.1/parknetApp.AssemblyInfoInputs.cache
+/Users/capi/Desktop/Projects/C#/parknetApp/obj/Debug/netcoreapp2.1/parknetApp.AssemblyInfo.cs
+/Users/capi/Desktop/Projects/C#/parknetApp/obj/Debug/netcoreapp2.1/parknetApp.dll
+/Users/capi/Desktop/Projects/C#/parknetApp/obj/Debug/netcoreapp2.1/parknetApp.pdb
